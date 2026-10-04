@@ -41,5 +41,4 @@ sudo systemctl reload nginx
 ```
 
 ### 6. Kết quả truy cập Web
-**Ảnh chụp màn hình trình duyệt khi truy cập vào `http://<IP_ADDRESS_DROPLET>` (Vui lòng chụp và dán vào đây):**
-[ImgEx]
+*Lưu ý: Vì thẻ visa của em bị khoá nên không thể tạo droplet để chạy thử nghiệm trang web này.*
